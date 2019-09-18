@@ -1,4 +1,4 @@
-# myapp
+# impetus
 
 ## Project setup
 ```
